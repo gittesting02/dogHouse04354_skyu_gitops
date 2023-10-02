@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_100136e6-4d45-4546-b5a1-2250c7ad371d
+    project-id: project_09675c76-2922-4e5e-ba89-7050a7895743
+    project-name: dogHouse04354
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
