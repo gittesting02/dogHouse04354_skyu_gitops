@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: infra-check-project-1-dev
+  labels:
+    environmentId: env_707cc51e-100b-4b8d-924b-a75a9cf65b7c
+    projectId: project_d065e209-74ce-4515-a993-67ed417520a5
+    projectName: infra-check-project-1
+    environmentName: dev
+    organizationId: org_12ab5a69-48a2-42d7-ad36-d59a2bca4805

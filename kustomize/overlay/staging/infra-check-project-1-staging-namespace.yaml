@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: infra-check-project-1-staging
+  labels:
+    environmentId: env_350e1989-de7d-43f1-9955-1ab521dd025b
+    projectId: project_d065e209-74ce-4515-a993-67ed417520a5
+    projectName: infra-check-project-1
+    environmentName: staging
+    organizationId: org_12ab5a69-48a2-42d7-ad36-d59a2bca4805
